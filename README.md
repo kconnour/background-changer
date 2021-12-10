@@ -1,1 +1,0 @@
-This allows me to change the background on my computer at a set interval.
